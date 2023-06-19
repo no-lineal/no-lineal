@@ -1,4 +1,7 @@
-![tag](https://raw.githubusercontent.com/no-lineal/no-lineal/main/tag.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/no-lineal/no-lineal/main/tag.jpg" width="350" title="hover text">
+</p>
+
 <!--
 **no-lineal/no-lineal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
